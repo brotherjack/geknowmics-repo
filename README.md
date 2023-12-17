@@ -11,4 +11,4 @@ That is where this repository comes in. This is a curated knowledge base that yo
 Using this repository is not mandatory for this course. You can develop a broad-based introduction to genomics by participating in the labwork and paying attention to lectures. However, the key word in the previous sentence is _**introductory**_, if you want to develop a deeper understanding you'll need to continue studying outside and beyond the duration of this course. The material here can help you continue your genomics journey.  
 
 ## Collaboration 
-> 📝 <- This symbol represents a section that has not been reviewed by a knowledgeable expert. It's a draft, and you are encouraged to make drafts! That's how science works!
+> 📝 <- This symbol represents a section that has not been reviewed by a knowledgeable expert. It's a draft, and you are encouraged to make drafts! That's how science works! Here is the wiki on [how to contribute](https://github.com/brotherjack/geknowmics-repo/wiki/How-to-Contribute).
