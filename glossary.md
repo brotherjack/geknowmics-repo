@@ -45,12 +45,14 @@ It **should be noted** however that these definitions are those of the authors o
 - ### R Group
 	- _(in context of organic chemistry)_
 	- Represents any combination of atoms and bonds that contains at least 1 carbon or hydrogen atom.
+
 [↑ back to top ↑](#Disambiguation-Glossary-of-Genomics-Terms)   
 - ### Residue
 	- _(in context of amino acid/polypeptide)_ 
 	- Possible misconception: "Is the [R group](#R-group) of an amino acid molecule."
 	- Technically the residue of an amino acid in a peptide is all of the atoms of that amino acid that remain after the condensation reaction that adds it onto the peptide.
 ![residue_example](media/images/Glyphe_residue_example.png) 
+
 [↑ back to top ↑](#Disambiguation-Glossary-of-Genomics-Terms)
  
 ## S
