@@ -23,4 +23,4 @@ The learning curve for git/VCS is pretty steep, and some people find the prerequ
 
 That said, while it can be a struggle, there is no rush to learn any of this. Furthermore, once you get over the initial hurdles you'll find that you'll rarely need to perform any complex commands (at least 95% of my git usage centers around `git add`, `git commit` and `git push`).   
 
-[Back to Home](README.md)
+[Back to Home](../README.md)
