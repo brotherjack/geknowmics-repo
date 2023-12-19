@@ -7,6 +7,9 @@ It **should be noted** however that these definitions are those of the authors o
 [a](#a) [b](#b) [c](#c) [d](#d) [e](#e) [f](#f) [g](#g) [h](#h) [i](#i) [j](#j) [k](#k) [l](#l) [m](#m) [n](#n) [o](#o) [p](#p) [q](#q) [r](#r) [s](#s) [t](#t) [u](#u) [v](#v) [w](#w) [x](#x) [y](#y) [z](#z)
 
 ## A
+- ### Amplicon
+	- _(in context of genomics and bioinformatics)_
+	- A fragment of DNA/RNA that has been copied. This copying can happen naturally, but in context this is virtually always the result of thermocycling/polymerase chain reactions.  
 [↑ back to top ↑](#Disambiguation-Glossary-of-Genomics-Terms)
 ## B
 [↑ back to top ↑](#Disambiguation-Glossary-of-Genomics-Terms)
