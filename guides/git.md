@@ -13,7 +13,7 @@ Otherwise, you can safely ignore this for now.
 
 **GOOD NEWS**
 
-1. In the old days (like 2005-2010-ish) there used to be several VCS: git, mercurial, and subversion (AKA SVN). However, at the time of this writing (December 28, 2023), the overwhelming number of projects use git. So learning VCS is pretty much synonymous to learning git. This is one less thing to worry about.
+1. In the old days (like 2005-2010-ish) there used to be several VCS: git, mercurial, and subversion (AKA SVN). However, at the time of this writing (December 28, 2023), [the overwhelming number of projects use git](https://stackoverflow.blog/2023/01/09/beyond-git-the-other-version-control-systems-developers-use/). So learning VCS is pretty much synonymous to learning git. This is one less thing to worry about.
 
 2. When I first started using Git I was _terrified_ that I would accidentally introduce a change that would just **wreck** a project and people would get mad at me and call me a n00b. Fortunately however, this didn't happen and almost certainly will not happen to you either, largely because of how VCS works. Changes can be rolled back, and most operations have very little potential for damaging impact. The exception for this is perhaps use of `reabse`, but this is not something that is usually needed, and even when it is the distributed nature of git makes unrecoverable mistakes unlikely. This is a **big worry** you do not need to have.
 
