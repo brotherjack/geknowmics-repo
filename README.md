@@ -16,3 +16,13 @@ That said, this repository can also help you do better in _this_ course too.
 Collaboration is the lifeblood of science! We welcome your suggestions to improve this repository, check the link below to see the wiki entry on contribution 
 
 [how to contribute](https://github.com/brotherjack/geknowmics-repo/wiki/How-to-Contribute).
+
+## Links
+
+### Bio-informatics and adjacent computational technologies
+
+#### Version Control Software
+
+- [Our Guide on VCS](guides/git.md) - Consult this if you want to know whether you should bother learning VCS.
+- Dr. Karl Broman of the University of Wisconsin-Madison maintains a page of [git/github resources](https://kbroman.org/github_tutorial/pages/resources.html)
+	- The Pro Git book by Scott Chacon and Ben Straub is [a good and free guide to git](https://git-scm.com/book/en/v2). Usually books on computer tech over 10 years old can be dicey, but for a technology like git this is not an issue, as the end-user experience has remained largely consistent since then. It's not particularly long, and I don't think you would need to read it all. I would recommend starting with chapters 1-3 and 6, then following up with 7 which will help with the finer points.
