@@ -6,9 +6,9 @@ For a new, fast moving, and broad field, such as genomics, textbooks generally d
 
 This makes it difficult, especially for someone who is still working on an undergraduate degree in biology, _how do you find the right information when you don't necessarily know what you're looking for?_
 
-That is where this repository comes in. This is a curated knowledge base that you can use and contribute to you to help build your knowledge.
+That is where this repository comes in. This is a curated knowledge base that you can use to help build your knowledge and point you in the right direction on developing an understanding of genomics.
 
-Using this repository is not mandatory for this course. You can develop a broad-based introduction to genomics by participating in the lab-work and paying attention to lectures. However, the key word in the previous sentence is _**introductory**_, if you want to develop a deeper understanding you'll need to continue studying outside and beyond the duration of this course. The material here can help you continue your genomics journey.
+Using this repository is not mandatory for this course. You can develop a broad introduction to genomics by participating in the lab-work and paying attention to the lectures. However, the key word in the previous sentence is _**introductory**_, if you want to develop a deeper understanding you'll need to continue studying outside and beyond the duration of this course. The material here can help you continue your genomics journey.
 
 That said, this repository can also help you do better in _this_ course too.
 
