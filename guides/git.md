@@ -1,13 +1,13 @@
 # Introduction to Version Control Systems
-In the very old days people writing software would send each other text files containing code (if they collaborated with other people at all). This usually worked well enough with maybe 2 or 3 people, but it often resulted in problems. The more people, the more copies of the same file would be circulating and the more chances that something would get lost or some change would break something, and then which version of the file would you use? Who has that old file, you know, the one Carol sent me Monday of last week.
+In the very old days, people writing software would send each other text files containing code (if they collaborated with other people at all). This usually worked well enough with maybe 2 or 3 people, but it often resulted in problems. The more people, the more copies of the same file would be circulating and the more chances that something would get lost or some change would break something, and then which version of the file would you use? Who has that old file? You know, the one Carol sent me Monday of last week?
 
-This is the point of version control software. VCS, whether centralized or decentralized, provides a means of tracking and managing changes.
+This is the point of version control software. VCS, whether centralized or decentralized, provides a means of tracking and managing changes in data.
 
 **How much do I need to know this?**
 
-If you're interested in biotechnology or bio-informatics, you will need to learn how to work with VCS. Even if you are not, a passing familiarity with VCS could prove useful (for instance, this project is being hosted on a website designed around VCS).
+If you're interested in biotechnology or bioinformatics, you will need to learn how to work with VCS. Even if you are not, a passing familiarity with VCS _could_ prove useful (for instance, this project is being hosted on a website designed around VCS).
 
-Otherwise, you can safely ignore this for now.
+For those who are not particularly interested in biotechnology or bioinformatics, you can safely ignore this for now.
 
 **What should I learn in the short term?**
 
@@ -15,7 +15,11 @@ Otherwise, you can safely ignore this for now.
 
 1. In the old days (like 2005-2010-ish) there used to be several VCS: git, mercurial, and subversion (AKA SVN). However, at the time of this writing (December 28, 2023), [the overwhelming number of projects use git](https://stackoverflow.blog/2023/01/09/beyond-git-the-other-version-control-systems-developers-use/). So learning VCS is pretty much synonymous to learning git. This is one less thing to worry about.
 
-2. When I first started using Git I was _terrified_ that I would accidentally introduce a change that would just **wreck** a project and people would get mad at me and call me a n00b. Fortunately however, this didn't happen and almost certainly will not happen to you either, largely because of how VCS works. Changes can be rolled back, and most operations have very little potential for damaging impact. The exception for this is perhaps use of `reabse`, but this is not something that is usually needed, and even when it is the distributed nature of git makes unrecoverable mistakes unlikely. This is a **big worry** you do not need to have.
+2. When I first started using Git I was _terrified_ that I would accidentally introduce a change that would just **wreck** a project and people would get mad at me and call me a n00b. Fortunately however, this didn't happen and almost certainly will not happen to you either, largely because of how VCS works (this is the point after all). Changes can be rolled back, and most operations have very little potential for damaging impact. The exception for this is perhaps use of `reabse`, but this is not something that is usually needed, and even when it is the distributed nature of git makes unrecoverable mistakes unlikely. 
+
+(If you find yourself needing to rebase a repository, I would highly recommend making a backup of the repository first, preferably one that preserves history. [Here is a guide](https://threkk.medium.com/how-to-back-up-your-git-repositories-1298a4487a31) that describes how to do this. I personally prefer the approach outlined by John Kaniarz at the end of the article.
+
+This is a **big worry** you do not need to have.
 
 **BAD NEWS**
 
